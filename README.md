@@ -1,13 +1,14 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=720&lines=Antonio+Alves;JavaScript+and+React+Student;Building+my+path+in+tech"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=760&lines=Antonio+Alves;Front-end+Student;JavaScript+%7C+React;Open+to+learning+and+opportunities"
     alt="Antonio Alves typing"
   />
 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React" />
+    <img src="https://img.shields.io/badge/Front--end-0D1117?style=for-the-badge&logo=html5&logoColor=61DAFB" alt="Front-end" />
   </p>
 
 </div>
@@ -16,16 +17,17 @@
 
 ## Hi, I'm Antonio Alves
 
-I have knowledge in **JavaScript** and **React**, supported by courses and certifications. I am still studying, practicing, and improving every day to consolidate my place in the tech job market.
+I am building my path in front-end development with knowledge in **JavaScript**, **React**, **HTML**, and **CSS**. My learning is supported by courses, certificates, consistent practice, and personal projects.
 
-```js
-const antonioAlves = {
-  knowledge: ["JavaScript", "React", "HTML", "CSS"],
-  background: ["Courses", "Certificates", "Personal projects"],
-  currentlyStudying: ["Front-end development", "Best practices", "User experience"],
-  goal: "Keep growing and become a solid professional in the tech market."
-};
-```
+I am currently focused on improving my technical foundation, writing cleaner code, and creating responsive interfaces while preparing myself for my first professional opportunities in the technology market.
+
+## Professional Focus
+
+- Front-end development with JavaScript and React
+- Responsive and accessible web interfaces
+- Clean, organized, and maintainable code
+- Continuous learning through courses, certificates, and projects
+- Growth toward junior front-end developer opportunities
 
 ## Technologies
 
@@ -33,15 +35,19 @@ const antonioAlves = {
   <img src="https://skillicons.dev/icons?i=js,react,html,css,git,github,vscode" alt="Technologies" />
 </div>
 
-## What I am focused on
+## What I Bring
 
-- Improving my JavaScript and React skills
-- Building responsive web interfaces
-- Practicing with real projects
-- Learning clean and organized code
-- Preparing myself for professional opportunities
+```js
+const antonioAlves = {
+  roleTarget: "Junior Front-end Developer",
+  knowledge: ["JavaScript", "React", "HTML", "CSS", "Git", "GitHub"],
+  strengths: ["Consistency", "Curiosity", "Problem solving", "Fast learning"],
+  currentFocus: ["React fundamentals", "Clean code", "Responsive layouts"],
+  mindset: "Learning every day to become a reliable professional."
+};
+```
 
-## GitHub
+## GitHub Overview
 
 <div align="center">
   <img
@@ -56,8 +62,12 @@ const antonioAlves = {
   />
 </div>
 
+## Currently Looking For
+
+I am open to learning opportunities, internships, trainee programs, and junior front-end positions where I can contribute, improve, and grow with real development challenges.
+
 ---
 
 <div align="center">
-  <strong>Always learning, always building.</strong>
+  <strong>Focused on learning, building, and growing as a front-end professional.</strong>
 </div>
